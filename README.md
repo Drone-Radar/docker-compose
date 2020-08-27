@@ -14,7 +14,6 @@
 > cd docker-compose <br>
 > docker-compose up -d
 
-- Com isso, os microsserviços **users** e **providers** estarão disponíveis nas portas **3000** e **3001**, respectivamente, em seu **localhost**. <br>
 > **Back:** http://localhost:3333/api/ <br>
 
 > **Front:** http://localhost:3000 <br>
