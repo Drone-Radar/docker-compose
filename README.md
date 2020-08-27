@@ -1,4 +1,4 @@
-# docker-compose para execução dos microsserviços do projeto app-pet
+# docker-compose para execução dos microsserviços do projeto drone-radar
 
 ### Repositórios dos microsserviços: <br>
 **Front End:** https://github.com/Drone-Radar/drone-radar <br>
